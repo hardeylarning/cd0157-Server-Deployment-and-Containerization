@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: 2010-09-09
-Description: Udacity - This template deploys a Virtual Private Network
+Description: Roqeeb - This template deploys a Virtual Private Network
 Resources:
   UdacityVPC:
     Type: 'AWS::EC2::VPC'
